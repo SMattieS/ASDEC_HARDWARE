@@ -1,0 +1,19 @@
+-a 0
+-b 0
+-c 0
+-d 0
+-e 1
+-f 20
+-g true
+-i 50
+-j 1
+-k true
+-l 28
+-m 1
+-n 1
+-o 6
+-p models/ModelDesignC3F32EL1S32_input2/BASETEST6170/
+-q ModelDesignC3F32EL1S32_
+-r true
+-t input2/BASETEST6170
+--force

@@ -1,0 +1,8 @@
+dump/
+compiledmodel/
+quantizedmodel/
+ZCU102_3DPU_B4096/binary_container_1/
+ZCU102_1DPU_B512/binary_container_1/
+ALVEOU50/bin/
+ALVEOU50/_x_output/
+log*

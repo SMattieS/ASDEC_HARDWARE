@@ -1,0 +1,9 @@
+Time summary in seconds
+
+Initial setup time------------:	0.03095
+Data generation time----------:	0.00058
+Bitmap generation time ms-----:	453.31214
+Bitmap generation time mssel--:	391.82678
+Total training time-----------:	9296.41322
+Total clean up time-----------:	17.04083
+Total Time -------------------:	10158.62450

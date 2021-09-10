@@ -1,0 +1,14 @@
+export LC_CTYPE="en_US.UTF-8";
+export LC_NUMERIC="en_US.UTF-8";
+export TRD_HOME=~/Documents/Vitis-AI/dsa/DPU-TRD;
+source /tools/Xilinx/Vitis/2020.2/settings64.sh;
+source /opt/xilinx/xrt/setup.sh;
+source ~/petalinux/2020.2/settings.sh;
+export EDGE_COMMON_SW=~/Downloads/xilinx-zynqmp-common-v2020.2;
+export SDX_PLATFORM=/opt/xilinx/platforms/xilinx_zcu102_base_202020_1/xilinx_zcu102_base_202020_1.xpfm;
+source ~/petalinux_sdk/environment-setup-aarch64-xilinx-linux
+export LM_LICENSE_FILE=2100@xilinx.license.utwente.nl
+
+
+
+Beau01
