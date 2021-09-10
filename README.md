@@ -11,8 +11,10 @@ Version: 1.0
 
 # ABOUT
 -----
-Hardware implementation in combination with Vitis AI to generate .xmodel files to run on devices such as the ZCU102, or ALVEO U50.
+Hardware implementation of [ASDEC](https://github.com/SMattieS/ASDEC) in combination with Vitis AI to generate .xmodel files to run on devices such as the ZCU102, or ALVEO U50.
 This repo only contains the arch.json files, the sd_card folders are not available in this repository due to their size (multiple gigabytes).
+
+All models were generated with the SweepNet CNN architecture.
 
 # Download and Setup
 --------------------
