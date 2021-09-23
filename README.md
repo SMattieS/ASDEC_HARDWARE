@@ -1,7 +1,7 @@
 # ASDEC HARDWARE: Genome-wide Detection of Positive Selection using Convolutional Neural Networks
 ===============================================
 
-Authors: Matthijs Souilljee (m.l.souilljee@student.utwente.nl) and Nikolaos Alachiotis (n.alachiotis@gmail.com)
+Authors: Matthijs Souilljee (matthijs.souilljee@gmail.com) and Nikolaos Alachiotis (n.alachiotis@gmail.com)
 
 First release: 10/09/2021
 
